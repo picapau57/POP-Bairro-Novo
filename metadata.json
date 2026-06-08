@@ -1,0 +1,6 @@
+{
+  "name": "Portal do Cliente Pica-Pau Netweaver",
+  "description": "Portal completo de autoatendimento para clientes de provedor de internet. Visualize faturas Pix, abra chamados de suporte, confira consumo de dados e customize as informações do provedor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
